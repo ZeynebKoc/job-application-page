@@ -1,0 +1,203 @@
+[
+    {
+        "id": 1,
+        "name": "Thane Gammill",
+        "email": "tgammill9@com.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Elektrik-Elektronik Müh.",
+        "universiteYili": "4",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 2,
+        "name": "Ramonda Yakobowitch",
+        "email": "ryakobowitcha@hibu.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Bilgisayar Müh.",
+        "universiteYili": "3",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 3,
+        "name": "Rosalynd Connechie",
+        "email": "rconnechieb@chicagotribune.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Bilişim Teknolojileri",
+        "universiteYili": "4",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 4,
+        "name": "Vinny Hissett",
+        "email": "vhissettc@4shared.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Elektronik ve Haberleşme Müh.",
+        "universiteYili": "4",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 5,
+        "name": "Mylo Tarbath",
+        "email": "mtarbathd@behance.net",
+        "tel": "555-55-55",
+        "universiteBolumu": "Bilgisayar Programcılığı",
+        "universiteYili": "4",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 6,
+        "name": "Pierson Linny",
+        "email": "plinnye@altervista.org",
+        "tel": "555-55-55",
+        "universiteBolumu": "Bilişim Teknolojileri",
+        "universiteYili": "3",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 7,
+        "name": "Adi Bassano",
+        "email": "abassanof@about.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Bilgisayar Programcılığı",
+        "universiteYili": "Mezunum",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 8,
+        "name": "Paxon Claypole",
+        "email": "pclaypoleg@storify.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Bilişim Teknolojileri",
+        "universiteYili": "3",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 9,
+        "name": "Marcella Mogey",
+        "email": "mmogeyh@weebly.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Bilgisayar Müh.",
+        "universiteYili": "Mezunum",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+
+    {
+        "id": 10,
+        "name": "Fiann Winsborrow",
+        "email": "mdruhanj@friendfeed.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Elektrik-Elektronik Müh.",
+        "universiteYili": "Mezunum",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 11,
+        "name": "Moria Druhan",
+        "email": "mdruhanj@friendfeed.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Bilgisayar Programcılığı",
+        "universiteYili": "3",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 12,
+        "name": "Tobie Vint",
+        "email": "tvint0@fotki.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Bilgisayar Programcılığı",
+        "universiteYili": "Mezunum",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 13,
+        "name": "Zacharias Garnul",
+        "email": "zcerman1@sciencedirect.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Bilişim Teknolojileri",
+        "universiteYili": "4",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 14,
+        "name": "Gerianna Bunn",
+        "email": "gbunn2@foxnews.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Matematik",
+        "universiteYili": "Mezunum",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 15,
+        "name": "Bee Saurin",
+        "email": "bsaurin3@live.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Bilişim Teknolojileri",
+        "universiteYili": "3",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 16,
+        "name": "Meyer Garnul",
+        "email": "mgarnul4@yellowbook.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Elektronik ve Haberleşme Müh.",
+        "universiteYili": "4",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 17,
+        "name": "Frederich Benley",
+        "email": "fbenley5@ameblo.jp",
+        "tel": "555-55-55",
+        "universiteBolumu": "Bilişim Teknolojileri",
+        "universiteYili": "Mezunum",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 18,
+        "name": "Becki Criag",
+        "email": "bcriag6@washingtonpost.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Elektrik-Elektronik Müh.",
+        "universiteYili": "4",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 19,
+        "name": "Nichols Risom",
+        "email": "nrisom7@google.com.br",
+        "tel": "555-55-55",
+        "universiteBolumu": "Bilişim Teknolojileri",
+        "universiteYili": "3",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    },
+    {
+        "id": 20,
+        "name": "Ron Menendes",
+        "email": "rmenendes8@prnewswire.com",
+        "tel": "555-55-55",
+        "universiteBolumu": "Bilgisayar Müh.",
+        "universiteYili": "3",
+        "ozGecmis": "",
+        "ekAciklamalar": ""
+    }
+]

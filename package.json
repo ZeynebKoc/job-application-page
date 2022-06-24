@@ -1,0 +1,28 @@
+{
+  "name": "job-application-page",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
+    "carbon-components-svelte": "^0.66.0",
+    "svelte": "^3.44.0",
+    "svelte-headless-table": "^0.10.2",
+    "svelte-simple-datatables": "^0.2.3",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "animated-scroll-to": "^2.2.0",
+    "svelte-burger-menu": "^1.0.5",
+    "svelte-scrolling": "^1.2.1",
+    "svelte-scrollto": "^0.2.0",
+    "svelte-search-table": "0.0.5",
+    "svelte-spa-router": "^3.2.0",
+    "svelte-table": "^0.3.4"
+  }
+}
